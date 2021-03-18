@@ -1,0 +1,11 @@
+#img-styling{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text-over-image {
+    position: absolute;
+    top: 145%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
